@@ -7,6 +7,12 @@
 </head>
 
 <style>
+header {
+    height: 30px;
+    background-color: coral;
+    color: white;
+}
+
 header > ul {
     display: flex;
     flex-direction: row;
@@ -18,6 +24,7 @@ header > ul {
 header > ul > li {
     padding-left: 15px;
 }
+
 </style>
 
 <body>
